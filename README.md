@@ -1,6 +1,6 @@
 # Mastering UI Design Techniques for Web and Mobile
 
-A two-day WSQ course in user needs, information flows, web and mobile interface design, validation, and design handoff using Claude Design.
+A two-day WSQ course in user needs, information flows, web and mobile interface design, validation, and design handoff using Claude Design. This repository is the learner-facing v12 courseware package.
 
 | Course detail | Information |
 |---|---|
@@ -37,6 +37,24 @@ Learners develop a user-centered design from a brief through flows, wireframes, 
 6. [Validation and Handoff](labs/lab-06-validation-and-handoff/README.md) — task tests, iteration and export.
 
 Each lab has its own brief, approved content, visual assets, local HTML specimen, review form and printable PDF guides. The [Learner Guide](courseware/LG-Mastering%20UI%20Design%20Techniques%20for%20Web%20and%20Mobile-v12.pdf) contains the detailed procedures. The slide deck presents mechanisms and evidence without click-by-click instructions.
+
+## Courseware files
+
+| Resource | Format | Purpose |
+|---|---|---|
+| [Visual slide deck](courseware/Mastering%20UI%20Design%20Techniques%20for%20Web%20and%20Mobile-v12.pdf) | PDF | Concepts, diagrams and project examples for class |
+| [Editable slide deck](courseware/Mastering%20UI%20Design%20Techniques%20for%20Web%20and%20Mobile-v12.pptx) | PowerPoint | Trainer presentation |
+| [Learner Guide](courseware/LG-Mastering%20UI%20Design%20Techniques%20for%20Web%20and%20Mobile-v12.pdf) | PDF | Detailed procedures, checks and troubleshooting |
+| [Lesson Plan](courseware/LP-Mastering%20UI%20Design%20Techniques%20for%20Web%20and%20Mobile-v12.pdf) | PDF | Two-day teaching sequence |
+| [Labs](labs/) | HTML, assets, Markdown and PDF | Six practice briefs with separate project assets |
+
+To use a lab, open its `README.md`, review the brief and assets, then open `specimen.html` locally as a reference. Follow the detailed Claude Design procedure in the Learner Guide and record design decisions in the lab review form.
+
+## Claude Design references
+
+- [Get started with Claude Design](https://support.claude.com/en/articles/14604416-get-started-with-claude-design)
+- [Set up your design system in Claude Design](https://support.claude.com/en/articles/14604397-set-up-your-design-system-in-claude-design)
+- [Claude Design product overview](https://claude.com/product/design)
 
 ## Public package and access
 
