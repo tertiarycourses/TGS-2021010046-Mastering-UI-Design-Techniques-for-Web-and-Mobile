@@ -1,0 +1,17 @@
+.env
+.env.*
+.claude/
+.codex/
+assessment/
+reference/
+course_application/
+courseware/reference/
+courseware/assets/
+courseware/archive/
+qa/
+__pycache__/
+.DS_Store
+build_course.py
+build_assessment_course.py
+enhance_specimens.py
+courseware/SOURCE-REGISTER.md
