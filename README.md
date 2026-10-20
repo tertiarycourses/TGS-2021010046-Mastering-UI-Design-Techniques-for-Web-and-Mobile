@@ -8,6 +8,7 @@ A two-day WSQ course in user needs, information flows, web and mobile interface 
 | Programme | WSQ |
 | Duration | 2 days · 16 hours |
 | Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-mastering-ui-design-techniques-for-web-and-mobile.html) |
+| Funding | Up to 70% WSQ course-fee funding for eligible Singaporeans/PRs and companies. Eligibility and terms apply — see the course page. |
 
 ## About the course
 
